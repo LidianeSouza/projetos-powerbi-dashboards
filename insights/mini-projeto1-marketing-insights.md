@@ -1,4 +1,4 @@
-# 📊 Mini-Projeto 1 – Análise de Campanhas de Marketing com Power BI
+# 📊 Miniprojeto 1 – Análise de Campanhas de Marketing com Power BI
 
 Este projeto explora os dados de campanhas de marketing a partir de quatro visões analíticas distintas, com o objetivo de compreender o perfil dos clientes, seus comportamentos de compra, a performance das campanhas e padrões por país.
 
@@ -88,4 +88,4 @@ As visualizações foram desenvolvidas com foco em gerar insights estratégicos 
 
 ## 🧠 Conclusão
 
-Este mini-projeto demonstrou como múltiplas perspectivas sobre os mesmos dados podem revelar diferentes dimensões de um problema de marketing. O uso de filtros, gráficos interativos e segmentações tornou possível identificar públicos-alvo, comportamentos e padrões relevantes para campanhas futuras.
+Este miniprojeto demonstrou como múltiplas perspectivas sobre os mesmos dados podem revelar diferentes dimensões de um problema de marketing. O uso de filtros, gráficos interativos e segmentações tornou possível identificar públicos-alvo, comportamentos e padrões relevantes para campanhas futuras.
