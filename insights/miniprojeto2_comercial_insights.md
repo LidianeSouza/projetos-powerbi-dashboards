@@ -86,11 +86,10 @@ O relatório é composto pelos seguintes painéis:
 
 | Dashboard | Descrição | Miniatura |
 |----------|-----------|-----------|
-| Narrativa Inteligente | Geração automática de texto com insights sobre o volume de vendas, segmentos e fabricantes. | ![Narrativa](../imagens/performance-narrativa.png) |
-| Total por Segmento, Fabricante e Categoria | Análises visuais do total de vendas por diferentes dimensões. | ![Segmentos](../imagens/performance-segmento-categoria.png) |
-| Categoria vs Pontos de Venda | Gráfico de Sankey destacando fluxos entre categorias e locais de venda. | ![Sankey](../imagens/performance-categoria-ponto.png) |
-| Principais Influenciadores de Vendas | Principais variáveis que influenciam o resultado de vendas. | ![Influenciadores](../imagens/performance-influenciadores.png) |
-| Performance dos Vendedores por Região | Análise comparativa da performance individual por região. | ![Regiões](../imagens/performance-vendedores-regiao.png) |
+| Narrativa Inteligente, Total por Segmento, Fabricante e Categoria | Análises visuais do total de vendas por diferentes dimensões. | ![Segmentos](../imagens/thumb_miniprojeto2_segmentos.png) |
+| Categoria vs Pontos de Venda | Gráfico de Sankey destacando fluxos entre categorias e locais de venda. | ![Sankey](../imagens/thumb_miniprojeto2_sankey.png) |
+| Principais Influenciadores de Vendas | Principais variáveis que influenciam o resultado de vendas. | ![Influenciadores](../imagens/thumb_miniprojeto2_influenciadores.png) |
+| Performance dos Vendedores por Região | Análise comparativa da performance individual por região. | ![Regiões](../imagens/thumb_miniprojeto2_vendedores.png) |
 
 ---
 
