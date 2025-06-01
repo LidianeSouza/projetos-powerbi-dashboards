@@ -76,13 +76,13 @@ As visualizações foram desenvolvidas com foco em gerar insights estratégicos 
 
 ## 📁 Arquivo PBIX
 
-🗂️ `arquivos-pbix/mini-projeto1-campanhas-marketing.pbix`
+🗂️ `arquivos-pbix/Miniprojeto2_Dashboard_Comercial.pbix`
 
 ---
 
 ## 📄 Base de Dados
 
-📂 `datasets/mini-projetos-dataset.csv`
+📂 `datasets/miniprojeto1_marketing_data`
 
 ---
 
