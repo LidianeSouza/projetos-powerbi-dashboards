@@ -28,13 +28,13 @@ Este projeto tem como objetivo a análise das vendas globais a partir de indicad
 
 ## 📁 Arquivo PBIX
 
-🗂️ `arquivos-pbix/lab1-dashboard-vendas-globais.pbix`
+🗂️ `arquivos-pbix/Lab1_Vendas.pbix`
 
 ---
 
 ## 📄 Base de Dados
 
-📂 `datasets/lab1-dataset.csv`
+📂 `datasets/lab1_vendas_data.csv`
 
 ---
 
