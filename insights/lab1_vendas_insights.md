@@ -22,7 +22,7 @@ Este projeto tem como objetivo a análise das vendas globais a partir de indicad
 - Tabela com média de desconto por categoria
 - KPI total de vendas
 
-🖼️ ![Vendas Globais](../thumb_lab1_vendas.png)
+🖼️![Vendas Globais](../imagens/thumb_lab1_vendas.png)
 
 ---
 
