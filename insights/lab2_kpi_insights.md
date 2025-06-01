@@ -22,19 +22,19 @@ Neste projeto, foram analisadas métricas financeiras e operacionais relacionada
 - Tabela com KPI de metas versus realizado
 - Gráfico por modo de envio
 
-🖼️ ![Vendas, Custos e KPI](../thumb_lab2_kpi.png)
+🖼️ ![Vendas, Custos e KPI](../imagens/thumb_lab2_kpi.png)
 
 ---
 
 ## 📁 Arquivo PBIX
 
-🗂️ `arquivos-pbix/lab2-vendas-custos-kpi.pbix`
+🗂️ `arquivos-pbix/Lab2-Dashboard-KPI.pbix`
 
 ---
 
 ## 📄 Base de Dados
 
-📂 `datasets/lab2-dataset.csv`
+📂 `datasets/lab2_kpi_data`
 
 ---
 
