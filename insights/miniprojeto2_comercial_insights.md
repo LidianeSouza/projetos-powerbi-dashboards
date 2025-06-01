@@ -14,8 +14,6 @@ O relatório é composto pelos seguintes painéis:
 | Categoria vs Pontos de Venda | Gráfico de Sankey destacando fluxos entre categorias e locais de venda. | ![Sankey](../imagens/thumb_miniprojeto2_sankey.png) |
 | Performance dos Vendedores por Região | Análise comparativa da performance individual por região. | ![Regiões](../imagens/thumb_miniprojeto2_vendedores.png) |
 
-| Tela inicial do dashboard                  | ![Tela 1](../imagens/performance-01-thumb.png) |
-
 ---
 
 ## 🧠 Insights Relevantes
@@ -47,8 +45,12 @@ O relatório é composto pelos seguintes painéis:
 
 ---
 
-## 📂 Arquivos Relacionados
+## 📁 Arquivo PBIX
 
-- PBIX: `mini-projeto2-performance-vendas.pbix`
-- Dataset: `mini-projetos-dataset.csv`
+🗂️ `arquivos-pbix/Miniprojeto2_Comercial.pbix`
 
+---
+
+## 📄 Base de Dados
+
+📂 `datasets/miniprojeto2_dados_comerciais`
