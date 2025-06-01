@@ -22,7 +22,7 @@ Neste projeto, foram analisadas métricas financeiras e operacionais relacionada
 - Tabela com KPI de metas versus realizado
 - Gráfico por modo de envio
 
-🖼️ ![Vendas, Custos e KPI](../thumbnails/lab2-vendas-kpi.png)
+🖼️ ![Vendas, Custos e KPI](../thumb_lab2_kpi.png)
 
 ---
 
