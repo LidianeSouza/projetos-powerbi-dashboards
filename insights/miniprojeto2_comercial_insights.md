@@ -10,8 +10,8 @@ O relatório é composto pelos seguintes painéis:
 |----------|-----------|-----------|
 | Tela inicial do dashboard | Índice do dashboard | ![Índice](../imagens/performance-01-thumb.png) |
 | Narrativa Inteligente, Total por Segmento, Fabricante e Categoria | Análises visuais do total de vendas por diferentes dimensões. | ![Segmentos](../imagens/thumb_miniprojeto2_segmentos.png) |
-| Categoria vs Pontos de Venda | Gráfico de Sankey destacando fluxos entre categorias e locais de venda. | ![Sankey](../imagens/thumb_miniprojeto2_sankey.png) |
 | Principais Influenciadores de Vendas | Principais variáveis que influenciam o resultado de vendas. | ![Influenciadores](../imagens/thumb_miniprojeto2_influenciadores.png) |
+| Categoria vs Pontos de Venda | Gráfico de Sankey destacando fluxos entre categorias e locais de venda. | ![Sankey](../imagens/thumb_miniprojeto2_sankey.png) |
 | Performance dos Vendedores por Região | Análise comparativa da performance individual por região. | ![Regiões](../imagens/thumb_miniprojeto2_vendedores.png) |
 
 | Tela inicial do dashboard                  | ![Tela 1](../imagens/performance-01-thumb.png) |
