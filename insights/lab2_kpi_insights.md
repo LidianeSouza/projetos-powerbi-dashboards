@@ -26,6 +26,12 @@ Neste projeto, foram analisadas métricas financeiras e operacionais relacionada
 
 ---
 
+## 🧩 Insights Estratégicos
+
+Este painel evidenciou que a análise integrada de indicadores financeiros, segmentados por categoria e modo de envio, é fundamental para identificar oportunidades concretas de redução de custos e maximização de margens. As visualizações revelam padrões operacionais que permitem a formulação de estratégias logísticas mais eficientes e ajustes de precificação alinhados ao comportamento do mercado, potencializando a competitividade e a rentabilidade do negócio.
+
+---
+
 ## 📁 Arquivo PBIX
 
 🗂️ `arquivos-pbix/Lab2-Dashboard-KPI.pbix`
@@ -37,7 +43,3 @@ Neste projeto, foram analisadas métricas financeiras e operacionais relacionada
 📂 `datasets/lab2_kpi_data`
 
 ---
-
-## 🧠 Conclusão
-
-Este painel demonstrou como diferentes combinações de indicadores financeiros podem revelar oportunidades de redução de custos e aumento de lucro. A visualização por categoria e modo de envio trouxe uma visão prática para estratégias de logística e precificação.
