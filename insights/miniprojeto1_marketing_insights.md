@@ -74,6 +74,12 @@ As visualizações foram desenvolvidas com foco em gerar insights estratégicos 
 
 ---
 
+## 🧩 Insights Estratégicos
+
+Este miniprojeto demonstrou como múltiplas perspectivas sobre os mesmos dados podem revelar diferentes dimensões de um problema de marketing. O uso de filtros, gráficos interativos e segmentações tornou possível identificar públicos-alvo, comportamentos e padrões relevantes para campanhas futuras.
+
+---
+
 ## 📁 Arquivo PBIX
 
 🗂️ `arquivos-pbix/MiniProjeto1-Dashboard_Vendas.pbix`
@@ -85,7 +91,3 @@ As visualizações foram desenvolvidas com foco em gerar insights estratégicos 
 📂 `datasets/miniprojeto1_marketing_data`
 
 ---
-
-## 🧠 Conclusão
-
-Este miniprojeto demonstrou como múltiplas perspectivas sobre os mesmos dados podem revelar diferentes dimensões de um problema de marketing. O uso de filtros, gráficos interativos e segmentações tornou possível identificar públicos-alvo, comportamentos e padrões relevantes para campanhas futuras.
