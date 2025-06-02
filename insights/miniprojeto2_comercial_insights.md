@@ -16,7 +16,7 @@ O relatório é composto pelos seguintes painéis:
 
 ---
 
-## 🧠 Insights Relevantes
+## 🧩 Insights Estratégicos
 
 ### 🗣️ 1. Narrativa Inteligente
 - O segmento **Doméstico** lidera com 71,47% do total de vendas.
