@@ -28,6 +28,9 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 | **Vendas, Custo, KPI**         | Visualizações financeiras com cascata, treemap e análise de margem        | ![Vendas, Custos e KPI](imagens/thumb_lab2_kpi.png)                |
 | **MiniProjeto 1 – Análise de Campanhas de Marketing com Power BI** | Visão integrada de clientes, comportamento de compra, performance de campanhas e padrões por país | ![Visão Cliente](imagens/thumb_miniprojeto1_visaocliente.png)<br>![Comportamento de Compra](imagens/thumb_miniprojeto1_compra.png)<br>![Performance das Campanhas](imagens/thumb_miniprojeto1_campanhas.png)<br>![Padrões de Compra](imagens/thumb_miniprojeto1_padraocompra.png) |
 | **MiniProjeto 2 – Dashboard Comercial de Vendas** | Performance comercial com narrativa inteligente, principais influenciadores e gráfico de faixas | ![Segmentos](imagens/thumb_miniprojeto2_segmentos.png)<br>![Influenciadores](imagens/thumb_miniprojeto2_influenciadores.png)<br>![Sankey](imagens/thumb_miniprojeto2_sankey.png)<br>![Regiões](imagens/thumb_miniprojeto2_vendedores.png) |
+| **MiniProjeto 3 – Dashboard de Recursos Humanos** | Análise do quadro de funcionários com KPIs de gênero, tempo de experiência, disponibilidade e envolvimento | ![RH](imagens/thumb_miniprojeto3_rh.png) |
+| **MiniProjeto 4 – Dashboard de Logística e Entregas** | Visão dos processos de entrega com KPIs por canal, equipe, cidade, status e vendedores | ![Logística](imagens/thumb_miniprojeto4_logistica.png) |
+| **MiniProjeto 5 – Dashboard Financeiro** | Monitoramento de receitas, despesas, margem de lucro e hierarquia por componente e ano | ![Financeiro](imagens/thumb_miniprojeto5_financeiro.png) |
 
 ## 📘 Conteúdo Detalhado
 
