@@ -24,9 +24,11 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 
 | Painel                          | Descrição                                                                 | Imagem                            |
 |--------------------------------|---------------------------------------------------------------------------|-----------------------------------|
-| **Vendas Globais**             | Análise de KPIs, faturamento, regiões e categorias de produto             | [Imagem pendente]                |
-| **Vendas, Custo, KPI**         | Visualizações financeiras com cascata, treemap e análise de margem        | [Imagem pendente]                |
-| **Mini-Projeto 1 – Análise de Campanhas de Marketing com Power BI** | Visão integrada de clientes, comportamento de compra, performance de campanhas e padrões por país | ![Visão Cliente](thumbnails/231252.png)<br>![Comportamento de Compra](thumbnails/231318.png)<br>![Performance das Campanhas](thumbnails/231342.png)<br>![Padrões de Compra](thumbnails/231358.png) |
+| **Vendas Globais**             | Análise de KPIs, faturamento, regiões e categorias de produto             | ![Vendas Globais](../imagens/thumb_lab1_vendas.png)                |
+| **Vendas, Custo, KPI**         | Visualizações financeiras com cascata, treemap e análise de margem        | ![Vendas, Custos e KPI](../imagens/thumb_lab2_kpi.png)                |
+| **Mini-Projeto 1 – Análise de Campanhas de Marketing com Power BI** | Visão integrada de clientes, comportamento de compra, performance de campanhas e padrões por país | ![Visão Cliente](../imagens/thumb_miniprojeto1_visaocliente.png)<br>![Comportamento de Compra](../imagens/thumb_miniprojeto1_compra.png)
+<br>![Performance das Campanhas](../imagens/thumb_miniprojeto1_campanhas.png)<br>![Padrões de Compra](../imagens/thumb_miniprojeto1_padraocompra.png) |
+| **Mini-Projeto 2 – Dashboard Comercial de Vendas** | Performance comercial com narrativa inteligente, principais influenciadores e gráfico de faixas | [Segmentos](../imagens/thumb_miniprojeto2_segmentos.png)<br>![Influenciadores](../imagens/thumb_miniprojeto2_influenciadores.png)<br>![Sankey](../imagens/thumb_miniprojeto2_sankey.png)<br>![Regiões](../imagens/thumb_miniprojeto2_vendedores.png) |
 
 ## 📘 Conteúdo Detalhado
 
