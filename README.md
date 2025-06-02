@@ -2,7 +2,7 @@
 
 Este repositório apresenta **dashboards interativos** desenvolvidos com o **Microsoft Power BI** durante o curso Microsoft Power BI para Business Intelligence e Ciência de Dados da [Data Science Academy](https://www.datascienceacademy.com.br/).
 
-Os projetos utilizam dados reais e simulados, com foco em vendas, marketing e performance comercial, aplicando conceitos de BI para gerar insights e apoiar decisões estratégicas.
+Os projetos utilizam dados simulados, com foco em vendas, marketing e performance comercial, aplicando conceitos de BI para gerar insights e apoiar decisões estratégicas.
 
 ## 🎯 Objetivos
 
