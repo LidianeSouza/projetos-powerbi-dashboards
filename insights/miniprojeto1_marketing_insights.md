@@ -19,7 +19,7 @@ As visualizações foram desenvolvidas com foco em gerar insights estratégicos 
 - A maior parte dos clientes está concentrada em países específicos com alto volume de resposta às campanhas.
 - Diferenças no perfil educacional e no estado civil entre os países analisados.
 
-🖼️ ![Visão Cliente](../thumb_miniprojeto1_visaocliente.png)
+🖼️ ![Visão Cliente](../imagens/thumb_miniprojeto1_visaocliente.png)
 
 ---
 
@@ -36,7 +36,7 @@ As visualizações foram desenvolvidas com foco em gerar insights estratégicos 
 - Clientes com maior salário tendem a gastar mais, mas há exceções relevantes.
 - Famílias maiores tendem a responder menos às campanhas, sugerindo baixa efetividade nesses perfis.
 
-🖼️ ![Comportamento de Compra](../thumb_miniprojeto1_compra.png)
+🖼️ ![Comportamento de Compra](../imagens/thumb_miniprojeto1_compra.png)
 
 ---
 
@@ -53,7 +53,7 @@ As visualizações foram desenvolvidas com foco em gerar insights estratégicos 
 - Algumas campanhas têm alta taxa de conversão entre públicos com renda intermediária.
 - Há diferenças significativas de resposta por país e faixa etária.
 
-🖼️ ![Performance das Campanhas](../thumb_miniprojeto1_campanhas.png)
+🖼️ ![Performance das Campanhas](../imagens/thumb_miniprojeto1_campanhas.png)
 
 ---
 
@@ -70,13 +70,13 @@ As visualizações foram desenvolvidas com foco em gerar insights estratégicos 
 - Determinados países concentram categorias de produto específicas.
 - Gastos variam fortemente entre anos, sugerindo sazonalidade ou efeito de campanhas bem-sucedidas.
 
-🖼️ ![Padrões de Compra](../thumb_miniprojeto1_padraocompra.png)
+🖼️ ![Padrões de Compra](../imagens/thumb_miniprojeto1_padraocompra.png)
 
 ---
 
 ## 📁 Arquivo PBIX
 
-🗂️ `arquivos-pbix/Miniprojeto2_Dashboard_Comercial.pbix`
+🗂️ `arquivos-pbix/MiniProjeto1-Dashboard_Vendas.pbix`
 
 ---
 
