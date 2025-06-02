@@ -92,11 +92,11 @@ Clique para ampliar as imagens dos dashboards desenvolvidos:
 
 ## 📂 Datasets
 
-As bases de dados utilizadas nos projetos estão na pasta `datasets/` para fins educacionais.
+As bases de dados utilizadas nos projetos estão na pasta [📁 datasets](./datasets/) para fins educacionais.
 
 ## 📚 Análises e Insights
 
-Cada projeto conta com um arquivo em `insights/` contendo os aprendizados e interpretações extraídas a partir das visualizações.
+Cada projeto conta com um arquivo em [📁 insights](./insights/) contendo os aprendizados e interpretações extraídas a partir das visualizações.
 
 ## 🧰 Tecnologias Utilizadas
 
