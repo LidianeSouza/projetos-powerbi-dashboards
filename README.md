@@ -85,6 +85,56 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 
 ---
 
+### 🔹 MiniProjeto 3 – Dashboard de Recursos Humanos
+
+> Análise de indicadores de RH com foco em gênero, tempo de experiência, envolvimento, promoção e disponibilidade para hora extra.
+
+**Perguntas respondidas:**
+- Qual o total de funcionários atualmente na empresa?
+- Qual o tempo médio de experiência dos funcionários?
+- Qual o total e percentual por gênero?
+- Qual a média salarial mensal?
+- Quantos funcionários por função?
+- Percentual disponível para hora extra?
+- Como está o nível de envolvimento?
+- Quantos devem receber promoção?
+
+[📥 MiniProjeto3 - Baixar arquivo .pbix](./arquivos-pbix/MiniProjeto3-RH.pbix)
+
+---
+
+### 🔹 MiniProjeto 4 – Dashboard de Logística e Entregas
+
+> Visão analítica sobre o desempenho logístico, com foco em pontualidade, cidades com maior atraso e canais de entrega.
+
+**Indicadores e KPIs:**
+- Total de entregas no prazo por canal
+- Percentual de entregas antecipadas por equipe
+- Total de entregas por mês
+- Top 5 vendedores por volume de entrega
+- Entregas com atraso por cidade
+- Percentual por status de entrega
+
+[📥 MiniProjeto4 - Baixar arquivo .pbix](./arquivos-pbix/MiniProjeto4-Logistica.pbix)
+
+---
+
+### 🔹 MiniProjeto 5 – Dashboard Financeiro
+
+> Monitoramento das receitas e despesas da empresa, com análise de margem de lucro e hierarquia por componente e ano.
+
+**Indicadores de negócio:**
+- Total de Receitas
+- Total de Despesas
+- Margem de Lucro
+- Receitas por componente
+- Despesas por componente (comparação com a média)
+- Análise por tipo e ano (com hierarquia)
+
+[📥 MiniProjeto5 - Baixar arquivo .pbix](./arquivos-pbix/MiniProjeto5-Financeiro.pbix)
+
+---
+
 ### 📸 Exemplos Visuais
 
 Clique para ampliar as imagens dos dashboards desenvolvidos:
