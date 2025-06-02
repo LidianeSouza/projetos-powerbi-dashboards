@@ -8,7 +8,7 @@ O relatório é composto pelos seguintes painéis:
 
 | Dashboard | Descrição | Miniatura |
 |----------|-----------|-----------|
-| Índice Navegável | Tela inicial com botões de navegação para os dashboards posteriores | ![Índice](../imagens/performance-01-thumb.png) |
+| Índice Navegável | Tela inicial com botões de navegação para os dashboards posteriores | ![Índice](../imagens/thumb_miniprojeto2_indice.png) |
 | Narrativa Inteligente, Total por Segmento, Fabricante e Categoria | Análises visuais do total de vendas por diferentes dimensões. | ![Segmentos](../imagens/thumb_miniprojeto2_segmentos.png) |
 | Principais Influenciadores de Vendas | Principais variáveis que influenciam o resultado de vendas. | ![Influenciadores](../imagens/thumb_miniprojeto2_influenciadores.png) |
 | Categoria vs Pontos de Venda | Gráfico de Sankey destacando fluxos entre categorias e locais de venda. | ![Sankey](../imagens/thumb_miniprojeto2_sankey.png) |
@@ -47,10 +47,10 @@ O relatório é composto pelos seguintes painéis:
 
 ## 📁 Arquivo PBIX
 
-🗂️ `arquivos-pbix/Miniprojeto2_Comercial.pbix`
+🗂️ `arquivos-pbix/MiniProjeto2_Comercial.pbix`
 
 ---
 
 ## 📄 Base de Dados
 
-📂 `datasets/miniprojeto2_dados_comerciais`
+📂 `datasets/miniprojeto2_comercial_data`
