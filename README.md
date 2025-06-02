@@ -86,9 +86,13 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 
 Clique para ampliar as imagens dos dashboards desenvolvidos:
 
-[![Vendas Globais](imagens/thumb-vendas-globais.png)](imagens/Captura%20de%20tela%202025-05-30%20225435.png)
+[![Vendas](imagens/thumb-vendas-globais.png)](imagens/Captura%20de%20tela%202025-05-30%20225435.png)
 
-[![Vendas, Custo, KPI](imagens/thumb-vendas-custo-kpi.png)](imagens/Captura%20de%20tela%202025-05-30%20225836.png)
+[![KPI](imagens/thumb-vendas-custo-kpi.png)](imagens/Captura%20de%20tela%202025-05-30%20225836.png)
+
+[![Marketing](imagens/thumb-vendas-globais.png)](imagens/Captura%20de%20tela%202025-05-30%20225435.png)
+
+[![Comercial](imagens/thumb-vendas-custo-kpi.png)](imagens/Captura%20de%20tela%202025-05-30%20225836.png)
 
 ## 📂 Datasets
 
