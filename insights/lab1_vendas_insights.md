@@ -26,6 +26,12 @@ Este projeto tem como objetivo a análise das vendas globais a partir de indicad
 
 ---
 
+## 🧩 Insights Estratégicos
+
+O painel possibilitou uma visão clara das regiões e categorias de produtos com maior impacto no faturamento global, orientando a priorização de ações comerciais mais estratégicas. Além disso, destacou a influência direta da política de descontos e da eficiência logística na experiência do cliente e na rentabilidade do negócio.
+
+---
+
 ## 📁 Arquivo PBIX
 
 🗂️ `arquivos-pbix/Lab1-Dashboard-Vendas.pbix`
@@ -37,7 +43,3 @@ Este projeto tem como objetivo a análise das vendas globais a partir de indicad
 📂 `datasets/lab1_vendas_data`
 
 ---
-
-## 🧠 Conclusão
-
-O painel permitiu identificar quais regiões e produtos são mais representativos no faturamento global, facilitando a priorização de esforços comerciais. Também evidenciou a importância da gestão de descontos e da logística de envio na experiência do cliente.
