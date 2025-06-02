@@ -25,8 +25,6 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 | Painel                          | Descrição                                                                 | Imagem                            |
 |--------------------------------|---------------------------------------------------------------------------|-----------------------------------|
 | **Vendas Globais**             | Análise de KPIs, faturamento, regiões e categorias de produto             | [Imagem pendente]                |
-| **RH e Pessoas**               | Indicadores de turnover, headcount e perfil de colaboradores              | [Imagem pendente]                |
-| **Finanças**                   | Fluxo de caixa, receitas, despesas e projeções                            | [Imagem pendente]                |
 | **Vendas, Custo, KPI**         | Visualizações financeiras com cascata, treemap e análise de margem        | [Imagem pendente]                |
 | **Mini-Projeto 1 – Análise de Campanhas de Marketing com Power BI** | Visão integrada de clientes, comportamento de compra, performance de campanhas e padrões por país | ![Visão Cliente](thumbnails/231252.png)<br>![Comportamento de Compra](thumbnails/231318.png)<br>![Performance das Campanhas](thumbnails/231342.png)<br>![Padrões de Compra](thumbnails/231358.png) |
 
