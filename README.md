@@ -26,8 +26,8 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 |--------------------------------|---------------------------------------------------------------------------|-----------------------------------|
 | **Vendas Globais**             | Análise de KPIs, faturamento, regiões e categorias de produto             | ![Vendas Globais](imagens/thumb_lab1_vendas.png)                |
 | **Vendas, Custo, KPI**         | Visualizações financeiras com cascata, treemap e análise de margem        | ![Vendas, Custos e KPI](imagens/thumb_lab2_kpi.png)                |
-| **Mini-Projeto 1 – Análise de Campanhas de Marketing com Power BI** | Visão integrada de clientes, comportamento de compra, performance de campanhas e padrões por país | ![Visão Cliente](imagens/thumb_miniprojeto1_visaocliente.png)<br>![Comportamento de Compra](imagens/thumb_miniprojeto1_compra.png)<br>![Performance das Campanhas](imagens/thumb_miniprojeto1_campanhas.png)<br>![Padrões de Compra](imagens/thumb_miniprojeto1_padraocompra.png) |
-| **Mini-Projeto 2 – Dashboard Comercial de Vendas** | Performance comercial com narrativa inteligente, principais influenciadores e gráfico de faixas | ![Segmentos](imagens/thumb_miniprojeto2_segmentos.png)<br>![Influenciadores](imagens/thumb_miniprojeto2_influenciadores.png)<br>![Sankey](imagens/thumb_miniprojeto2_sankey.png)<br>![Regiões](imagens/thumb_miniprojeto2_vendedores.png) |
+| **MiniProjeto 1 – Análise de Campanhas de Marketing com Power BI** | Visão integrada de clientes, comportamento de compra, performance de campanhas e padrões por país | ![Visão Cliente](imagens/thumb_miniprojeto1_visaocliente.png)<br>![Comportamento de Compra](imagens/thumb_miniprojeto1_compra.png)<br>![Performance das Campanhas](imagens/thumb_miniprojeto1_campanhas.png)<br>![Padrões de Compra](imagens/thumb_miniprojeto1_padraocompra.png) |
+| **MiniProjeto 2 – Dashboard Comercial de Vendas** | Performance comercial com narrativa inteligente, principais influenciadores e gráfico de faixas | ![Segmentos](imagens/thumb_miniprojeto2_segmentos.png)<br>![Influenciadores](imagens/thumb_miniprojeto2_influenciadores.png)<br>![Sankey](imagens/thumb_miniprojeto2_sankey.png)<br>![Regiões](imagens/thumb_miniprojeto2_vendedores.png) |
 
 ## 📘 Conteúdo Detalhado
 
@@ -42,7 +42,7 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 - Qual a média de desconto por subcategoria?
 - Quais países com maior média de venda? (com mapa)
 
-[📥 Baixar arquivo .pbix](./arquivos-pbix/Lab1-Dashboard-Vendas.pbix)
+[📥 Lab1 - Baixar arquivo .pbix](./arquivos-pbix/Lab1-Dashboard-Vendas.pbix)
 
 ---
 
@@ -57,11 +57,11 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 - Lucro médio por categoria?
 - Margem de lucro ao longo do tempo?
 
-[📥 Baixar arquivo .pbix](./arquivos-pbix/Lab2-Dashboard-KPI.pbix)
+[📥 Lab2 - Baixar arquivo .pbix](./arquivos-pbix/Lab2-Dashboard-KPI.pbix)
 
 ---
 
-### 🔹 Mini-Projeto 1 – Análise de Campanhas de Marketing
+### 🔹 MiniProjeto 1 – Análise de Campanhas de Marketing
 
 > Exploração completa de campanhas de marketing, comportamento do cliente e padrões de compra, dividida em 4 visões:
 
@@ -70,15 +70,15 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 - Visão da Performance das Campanhas  
 - Visão de Padrões de Compra no Ponto de Venda  
 
-[📥 Baixar arquivo .pbix](./arquivos-pbix/MiniProjeto1-Marketing.pbix)
+[📥 MiniProjeto1 - Baixar arquivo .pbix](./arquivos-pbix/MiniProjeto1-Marketing.pbix)
 
 ---
 
-### 🔹 Mini-Projeto 2 – Dashboard Comercial de Vendas
+### 🔹 MiniProjeto 2 – Dashboard Comercial de Vendas
 
 > Análise de performance comercial com recursos avançados como narrativa inteligente, principais influenciadores, gráfico de faixas e menu interativo.
 
-[📥 Baixar arquivo .pbix](./arquivos-pbix/MiniProjeto2-Comercial.pbix)
+[📥 MiniProjeto2 - Baixar arquivo .pbix](./arquivos-pbix/MiniProjeto2-Comercial.pbix)
 
 ---
 
