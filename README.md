@@ -42,7 +42,7 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 - Qual a média de desconto por subcategoria?
 - Quais países com maior média de venda? (com mapa)
 
-📎 Arquivo: [`lab1-dashboard-vendas-globais.pbix`](arquivos-pbix/lab1-dashboard-vendas-globais.pbix)
+[📥 Baixar arquivo .pbix](./arquivos-pbix/Lab1-Dashboard-Vendas.pbix)
 
 ---
 
