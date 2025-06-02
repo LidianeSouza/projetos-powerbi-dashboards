@@ -57,7 +57,7 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 - Lucro médio por categoria?
 - Margem de lucro ao longo do tempo?
 
-📎 Arquivo: `lab2-vendas-custos-kpi.pbix`
+[📥 Baixar arquivo .pbix](./arquivos-pbix/Lab2-Dashboard-KPI.pbix)
 
 ---
 
@@ -70,7 +70,7 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 - Visão da Performance das Campanhas  
 - Visão de Padrões de Compra no Ponto de Venda  
 
-📎 Arquivo: `mini-projeto1-campanhas-marketing.pbix`
+[📥 Baixar arquivo .pbix](./arquivos-pbix/MiniProjeto1-Marketing.pbix)
 
 ---
 
@@ -78,7 +78,7 @@ Reunir em um único repositório os projetos práticos desenvolvidos com Power B
 
 > Análise de performance comercial com recursos avançados como narrativa inteligente, principais influenciadores, gráfico de faixas e menu interativo.
 
-📎 Arquivo: `mini-projeto2-performance-vendas.pbix`
+[📥 Baixar arquivo .pbix](./arquivos-pbix/MiniProjeto2-Comercial.pbix)
 
 ---
 
@@ -122,4 +122,4 @@ Este projeto é de uso educacional e não possui fins comerciais. Dados e análi
 ---
 
 👩‍💻 Desenvolvido por: **Lidiane Souza**  
-🔗 [www.linkedin.com/in/lidiane-souza88](https://www.linkedin.com/in/lidiane-souza88)
+🔗 [Linkedin](https://www.linkedin.com/in/lidiane-souza88)
